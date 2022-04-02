@@ -1,0 +1,22 @@
+{
+  "name": "umbrella",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmineADD/umbrella.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^2.3.8"
+  },
+  "bugs": {
+    "url": "https://github.com/AmineADD/umbrella/issues"
+  },
+  "homepage": "https://github.com/AmineADD/umbrella#readme"
+}
